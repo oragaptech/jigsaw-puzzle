@@ -1,0 +1,62 @@
+{
+  "promos": [
+    {
+      "id": "promo1",
+      "title": "BEAUTIFUL PAINTINGS",
+      "imgSrc": "promo_painting",
+      "discount": "-35%",
+      "timer": "3d 8h",
+      "action": "Get"
+    },
+    {
+      "id": "promo2",
+      "title": "ARTISTIC ROOMS",
+      "imgSrc": "promo_room",
+      "discount": "-50%",
+      "timer": "1d 2h",
+      "action": "Get"
+    }
+  ],
+  "events": [
+    {
+      "id": "event1",
+      "title": "DAILY FREE PUZZLE",
+      "btnText": "Tap to play",
+      "imgSrc": "event_daily"
+    }
+  ],
+  "packs": [
+    {
+      "id": "pack_nature",
+      "title": "NATURE",
+      "subtitle": "15 Puzzles",
+      "coverUrl": "pack_cover_nature",
+      "unlockType": "Free",
+      "price": 0,
+      "items": [
+        {
+          "id": "nature_1",
+          "imgUrl": "puzzle_nature1"
+        },
+        {
+          "id": "nature_2",
+          "imgUrl": "puzzle_nature2"
+        }
+      ]
+    },
+    {
+      "id": "pack_premium",
+      "title": "PREMIUM ART",
+      "subtitle": "10 Puzzles",
+      "coverUrl": "pack_cover_art",
+      "unlockType": "Coins",
+      "price": 500,
+      "items": [
+        {
+          "id": "art_1",
+          "imgUrl": "puzzle_art1"
+        }
+      ]
+    }
+  ]
+}

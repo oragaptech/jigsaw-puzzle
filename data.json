@@ -29,6 +29,22 @@
       "imgSrc": "event_daily"
     }
   ],
+  "id": "pack_july_2026",
+  "title": "JULY 2026 ARCHIVE",
+  "subtitle": "Missed last month?",
+  "coverUrl": "cover_juli.jpg",
+  "unlockType": "Coins",
+  "price": 1000,
+  "items": [
+    {
+          "id": "daily_1",
+          "imgUrl": "puzzle_nature1"
+        },
+        {
+          "id": "daily_2",
+          "imgUrl": "puzzle_nature2"
+        }
+  ],
   "packs": [
     {
       "id": "pack_noture",

@@ -1,20 +1,24 @@
 {
   "promos": [
     {
-      "id": "promo1",
-      "title": "BEAUTIFUL PAINTINGS",
-      "imgSrc": "promo_painting",
-      "discount": "-35%",
-      "timer": "3d 8h",
-      "action": "Get"
-    },
-    {
-      "id": "promo2",
-      "title": "ARTISTIC ROOMS",
-      "imgSrc": "promo_room",
+      "id": "promo_premium_art",
+      "title": "PREMIUM ART PACK",
+      "imgSrc": "promo_banner_art",
       "discount": "-50%",
       "timer": "1d 2h",
-      "action": "Get"
+      "action": "Buy",
+      "unlockType": "Coins", 
+      "price": 250
+    },
+    {
+      "id": "promo_nature_pack",
+      "title": "NATURE SPECIAL",
+      "imgSrc": "promo_banner_nature",
+      "discount": "FREE",
+      "timer": "Ends Today",
+      "action": "Get",
+      "unlockType": "Free",
+      "price": 0
     }
   ],
   "events": [

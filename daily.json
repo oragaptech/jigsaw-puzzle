@@ -9,5 +9,16 @@
       "id": "daily_10",
       "imgUrl": "https://link-gambar.com/gambar10.jpg"
     }
+  ],
+  "monthYear": "JUNE 2026",
+  "items": [
+    {
+      "id": "daily_11",
+      "imgUrl": "https://link-gambar.com/gambar11.jpg"
+    },
+    {
+      "id": "daily_10",
+      "imgUrl": "https://link-gambar.com/gambar10.jpg"
+    }
   ]
 }

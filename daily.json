@@ -1,7 +1,7 @@
 {
   "history": [
     {
-      "monthYear": "AUGUST 2026",
+      "monthYear": "JULY 2026",
       "items": [
         { "id": "daily_25", "imgUrl": "https://link/agustus2.jpg" },
         { "id": "daily_24", "imgUrl": "https://link/agustus2.jpg" },
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "monthYear": "JULY 2026",
+      "monthYear": "JUNE 2026",
       "items": [
         { "id": "daily_31", "imgUrl": "https://link/juli31.jpg" },
         { "id": "daily_30", "imgUrl": "https://link/juli30.jpg" }

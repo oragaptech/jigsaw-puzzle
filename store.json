@@ -1,0 +1,24 @@
+{
+  "storePacks": [
+    {
+      "id": "pack_cat_summer",
+      "title": "Summer Cat",
+      "categories": ["UNIQUE", "SUMMER", "POPULAR"],
+      "coverUrl": "https://link/cat.jpg",
+      "unlockType": "IAP",
+      "priceString": "Rp 36.000",
+      "discountBadge": "-64%",
+      "timerText": "2d 20h"
+    },
+    {
+      "id": "pack_horse",
+      "title": "Running Horses",
+      "categories": ["POPULAR", "ANIMALS"],
+      "coverUrl": "https://link/horse.jpg",
+      "unlockType": "IAP",
+      "priceString": "Rp 24.000",
+      "discountBadge": "-45%",
+      "timerText": "1d 10h"
+    }
+  ]
+}

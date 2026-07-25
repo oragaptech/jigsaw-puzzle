@@ -1,26 +1,4 @@
-{
-  "promos": [
-    {
-      "id": "promo_premium_art",
-      "title": "PREMIUM ART PACK",
-      "imgSrc": "promo_banner_art",
-      "discount": "-50%",
-      "timer": "1d 2h",
-      "action": "Buy",
-      "unlockType": "Coins", 
-      "price": 250
-    },
-    {
-      "id": "promo_nature_pack",
-      "title": "NATURE SPECIAL",
-      "imgSrc": "promo_banner_nature",
-      "discount": "FREE",
-      "timer": "Ends Today",
-      "action": "Get",
-      "unlockType": "Free",
-      "price": 0
-    }
-  ],
+{  
   "events": [
     {
       "id": "event1",

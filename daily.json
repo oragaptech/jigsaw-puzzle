@@ -1,24 +1,18 @@
 {
-  "monthYear": "JULY 2026",
-  "items": [
+  "history": [
     {
-      "id": "daily_11",
-      "imgUrl": "https://link-gambar.com/gambar11.jpg"
+      "monthYear": "AUGUST 2026",
+      "items": [
+        { "id": "daily_2", "imgUrl": "https://link/agustus2.jpg" },
+        { "id": "daily_1", "imgUrl": "https://link/agustus1.jpg" }
+      ]
     },
     {
-      "id": "daily_10",
-      "imgUrl": "https://link-gambar.com/gambar10.jpg"
-    }
-  ],
-  "monthYear": "JUNE 2026",
-  "items": [
-    {
-      "id": "daily_11",
-      "imgUrl": "https://link-gambar.com/gambar11.jpg"
-    },
-    {
-      "id": "daily_10",
-      "imgUrl": "https://link-gambar.com/gambar10.jpg"
+      "monthYear": "JULY 2026",
+      "items": [
+        { "id": "daily_31", "imgUrl": "https://link/juli31.jpg" },
+        { "id": "daily_30", "imgUrl": "https://link/juli30.jpg" }
+      ]
     }
   ]
 }

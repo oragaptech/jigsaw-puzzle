@@ -27,6 +27,12 @@
       "title": "LAMPUNG",
       "btnText": "Tap to play",
       "imgSrc": "event_daily"
+    },
+    {
+      "id": "event2",
+      "title": "LAMPUNG 2",
+      "btnText": "Tap to play",
+      "imgSrc": "event_daily"
     }
   ],
   "id": "pack_june_2026",

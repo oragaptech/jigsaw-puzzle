@@ -1,4 +1,7 @@
-{
+{  
+    "globalPuzzleUnlockPrice": 50,
+    "adRewardCooldownMinutes": 60,
+    "interstitialCooldownMinutes": 3,
   "storePacks": [
     {
       "id": "pack_cat_summer",

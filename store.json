@@ -1,27 +1,39 @@
-{  
+{
     "globalPuzzleUnlockPrice": 50,
     "adRewardCooldownMinutes": 60,
     "interstitialCooldownMinutes": 3,
-  "storePacks": [
-    {
-      "id": "pack_cat_summer",
-      "title": "Summer Cat",
-      "categories": ["UNIQUE", "SUMMER", "POPULAR"],
-      "coverUrl": "https://link/cat.jpg",
-      "unlockType": "IAP",
-      "priceString": "Rp 36.000",
-      "discountBadge": "-64%",
-      "timerText": "2d 20h"
-    },
-    {
-      "id": "pack_horse",
-      "title": "Running Horses",
-      "categories": ["POPULAR", "ANIMALS"],
-      "coverUrl": "https://link/horse.jpg",
-      "unlockType": "IAP",
-      "priceString": "Rp 24.000",
-      "discountBadge": "-45%",
-      "timerText": "1d 10h"
-    }
-  ]
+    "storePacks": [
+        {
+            "id": "pack_premium_1",
+            "title": "PREMIUM NATURE",
+            "subtitle": "Exclusive scenery",
+            "coverUrl": "https://example.com/cover1.jpg",
+            "unlockType": "IAP",
+            "priceString": "$1.99",
+            "categories": ["Special", "Awards"],
+            "discountBadge": "-20%",
+            "timerText": "Ends in 2d",
+            "items": [
+                {
+                    "id": "premium_nature_1",
+                    "imgUrl": "https://example.com/img1.jpg"
+                }
+            ]
+        },
+        {
+            "id": "pack_coins_1",
+            "title": "CUTE ANIMALS",
+            "subtitle": "Unlock with Coins",
+            "coverUrl": "https://example.com/cover2.jpg",
+            "unlockType": "Coins",
+            "price": 250,
+            "categories": ["More"],
+            "items": [
+                {
+                    "id": "cute_animals_1",
+                    "imgUrl": "https://example.com/img2.jpg"
+                }
+            ]
+        }
+    ]
 }

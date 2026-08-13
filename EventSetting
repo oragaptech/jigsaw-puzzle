@@ -1,0 +1,24 @@
+{
+  "id": "event_summer_2026",
+  "title": "MISTYC JOURNEY",
+  "subtitle": "Spesial Musim Panas",
+  "categories": [
+    "cat"
+  ],
+  "coverUrl": "https://link-gambar-cover-anda.com/mistyc.jpg",
+  "endTime": "2026-08-20 23:59:59",
+  "items": [
+    {
+      "id": "lvl_1_kucing",
+      "imgUrl": "https://link-kucing-1.jpg",
+      "targetCols": 4,
+      "targetRows": 3
+    },
+    {
+      "id": "lvl_2_anjing",
+      "imgUrl": "https://link-anjing-2.jpg",
+      "targetCols": 7,
+      "targetRows": 6
+    }
+  ]
+}

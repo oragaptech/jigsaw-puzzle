@@ -1,0 +1,27 @@
+{
+  "storePacks": [
+    {
+      "id": "pack_galaxy",
+      "title": "Galaxy Journey",
+      "subtitle": "Cosmic scene",
+      "coverUrl": "https://link-gambar.com/galaxy.jpg",
+      "unlockType": "Coins",
+      "price": 1500,
+      "items": [
+        { "id": "lvl_1", "imgUrl": "..." },
+        { "id": "lvl_2", "imgUrl": "..." }
+      ]
+    },
+    {
+      "id": "pack_enchanted",
+      "title": "Enchanted Castle",
+      "subtitle": "Magical spire",
+      "coverUrl": "https://link-gambar.com/castle.jpg",
+      "unlockType": "IAP",
+      "priceString": "$2.99",
+      "items": [
+        { "id": "lvl_1", "imgUrl": "..." }
+      ]
+    }
+  ]
+}

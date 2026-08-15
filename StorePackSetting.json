@@ -9,7 +9,7 @@
       "unlockType": "IAP",
       "priceString": "$2.99",      
       "discountBadge": "50% OFF, Limited Time",
-      "timerText": "endTime": "2026-08-16 11:00:00",
+      "timerText": "endTime": "2026-08-16 11:00:00"",
       "items": [
         { "id": "ench_1", "imgUrl": "https://img.com/1.jpg" },
         { "id": "ench_2", "imgUrl": "https://img.com/2.jpg" }
@@ -23,7 +23,7 @@
       "unlockType": "Coins",
       "price": 1500,
       "discountBadge": "30% OFF, Limited Time",
-      "timerText": "endTime": "2026-08-16 12:00:00",
+      "timerText": "endTime": "2026-08-16 12:00:00"",
       "items": [
         { "id": "glx_1", "imgUrl": "https://img.com/g1.jpg" }
       ]

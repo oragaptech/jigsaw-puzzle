@@ -1,6 +1,18 @@
 {
   "storePacks": [
     {
+      "id": "pack_enchanted",
+      "title": "Enchanted Castle",
+      "subtitle": "Magical spire",
+      "coverUrl": "https://link-gambar.com/enchanted.jpg",
+      "unlockType": "IAP",
+      "priceString": "$2.99",
+      "items": [
+        { "id": "ench_1", "imgUrl": "https://img.com/1.jpg" },
+        { "id": "ench_2", "imgUrl": "https://img.com/2.jpg" }
+      ]
+    },
+    {
       "id": "pack_galaxy",
       "title": "Galaxy Journey",
       "subtitle": "Cosmic scene",
@@ -8,19 +20,27 @@
       "unlockType": "Coins",
       "price": 1500,
       "items": [
-        { "id": "lvl_1", "imgUrl": "..." },
-        { "id": "lvl_2", "imgUrl": "..." }
+        { "id": "glx_1", "imgUrl": "https://img.com/g1.jpg" }
       ]
     },
     {
-      "id": "pack_enchanted",
-      "title": "Enchanted Castle",
-      "subtitle": "Magical spire",
-      "coverUrl": "https://link-gambar.com/castle.jpg",
-      "unlockType": "IAP",
-      "priceString": "$2.99",
+      "id": "pack_nature",
+      "title": "Mystic Nature",
+      "subtitle": "Elven woods",
+      "coverUrl": "https://link-gambar.com/nature.jpg",
+      "unlockType": "Ads",
       "items": [
-        { "id": "lvl_1", "imgUrl": "..." }
+        { "id": "nat_1", "imgUrl": "https://img.com/n1.jpg" }
+      ]
+    },
+    {
+      "id": "pack_bonus",
+      "title": "Bonus Pack",
+      "subtitle": "Free For All",
+      "coverUrl": "https://link-gambar.com/bonus.jpg",
+      "unlockType": "Free",
+      "items": [
+        { "id": "bns_1", "imgUrl": "https://img.com/b1.jpg" }
       ]
     }
   ]

@@ -6,7 +6,9 @@
       "subtitle": "Magical spire",
       "coverUrl": "https://link-gambar.com/enchanted.jpg",
       "unlockType": "IAP",
-      "priceString": "$2.99",
+      "priceString": "$2.99",      
+      "discountBadge": "SPECIAL OFFER",
+      "timerText": "Ends in 3 Days",
       "items": [
         { "id": "ench_1", "imgUrl": "https://img.com/1.jpg" },
         { "id": "ench_2", "imgUrl": "https://img.com/2.jpg" }
@@ -19,6 +21,8 @@
       "coverUrl": "https://link-gambar.com/galaxy.jpg",
       "unlockType": "Coins",
       "price": 1500,
+      "discountBadge": "SPECIAL OFFER",
+      "timerText": "Ends in 3 Days",
       "items": [
         { "id": "glx_1", "imgUrl": "https://img.com/g1.jpg" }
       ]

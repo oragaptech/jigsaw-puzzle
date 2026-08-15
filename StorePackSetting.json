@@ -6,9 +6,7 @@
       "subtitle": "Magical spire",
       "coverUrl": "https://link-gambar.com/enchanted.jpg",
       "unlockType": "IAP",
-      "priceString": "$2.99",      
-      "discountBadge": "50% OFF, Limited Time",
-      "endTime": "2026-08-16 11:00:00",
+      "priceString": "$2.99",
       "items": [
         { "id": "ench_1", "imgUrl": "https://img.com/1.jpg" },
         { "id": "ench_2", "imgUrl": "https://img.com/2.jpg" }
@@ -20,9 +18,7 @@
       "subtitle": "Magical spire",
       "coverUrl": "https://link-gambar.com/enchanted.jpg",
       "unlockType": "IAP",
-      "priceString": "$2.99",      
-      "discountBadge": "30% OFF, Limited Time",
-      "endTime": "2026-08-17 5:00:00",
+      "priceString": "$2.99",
       "items": [
         { "id": "ench_1", "imgUrl": "https://img.com/1.jpg" },
         { "id": "ench_2", "imgUrl": "https://img.com/2.jpg" },
@@ -35,7 +31,9 @@
       "subtitle": "Cosmic scene",
       "coverUrl": "https://link-gambar.com/galaxy.jpg",
       "unlockType": "Coins",
-      "price": 1500,    
+      "price": 1500,       
+      "discountBadge": "50% OFF, Limited Time",
+      "endTime": "2026-08-16 11:00:00",  
       "items": [
         { "id": "glx_1", "imgUrl": "https://img.com/g1.jpg" }
       ]

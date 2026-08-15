@@ -15,14 +15,27 @@
       ]
     },
     {
+      "id": "pack_enchanted",
+      "title": "Enchanted Castle",
+      "subtitle": "Magical spire",
+      "coverUrl": "https://link-gambar.com/enchanted.jpg",
+      "unlockType": "IAP",
+      "priceString": "$2.99",      
+      "discountBadge": "30% OFF, Limited Time",
+      "endTime": "2026-08-17 5:00:00",
+      "items": [
+        { "id": "ench_1", "imgUrl": "https://img.com/1.jpg" },
+        { "id": "ench_2", "imgUrl": "https://img.com/2.jpg" },
+        { "id": "ench_3", "imgUrl": "https://img.com/3.jpg" }
+      ]
+    },
+    {
       "id": "pack_galaxy",
       "title": "Galaxy Journey",
       "subtitle": "Cosmic scene",
       "coverUrl": "https://link-gambar.com/galaxy.jpg",
       "unlockType": "Coins",
       "price": 1500,    
-      "discountBadge": "30% OFF, Limited Time",
-      "endTime": "2026-08-16 5:00:00",
       "items": [
         { "id": "glx_1", "imgUrl": "https://img.com/g1.jpg" }
       ]

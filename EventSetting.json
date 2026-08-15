@@ -1,20 +1,4 @@
 {
-  "promos": [
-    {
-      "id": "promo_summer_2026",
-      "title": "Summer Sale",
-      "imgSrc": "https://link-gambar-anda.com/spanduk1.jpg",
-      "discount": "Diskon 50%",
-      "timer": "Tinggal 2 Hari"
-    },
-    {
-      "id": "promo_bundle_1",
-      "title": "Starter Pack",
-      "imgSrc": "https://link-gambar-anda.com/spanduk2.jpg",
-      "discount": "",
-      "timer": ""
-    }
-  ],
   "packs": [
     {
       "id": "event_summer_2026",

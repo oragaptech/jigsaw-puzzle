@@ -20,9 +20,9 @@
       "subtitle": "Cosmic scene",
       "coverUrl": "https://link-gambar.com/galaxy.jpg",
       "unlockType": "Coins",
-      "price": 1500,
+      "price": 1500,    
       "discountBadge": "30% OFF, Limited Time",
-      "timerText": "endTime": "2026-08-16 12:00:00",
+      "timerText": "endTime": "2026-08-16 5:00:00",
       "items": [
         { "id": "glx_1", "imgUrl": "https://img.com/g1.jpg" }
       ]
